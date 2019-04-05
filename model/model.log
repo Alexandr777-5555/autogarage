@@ -1,0 +1,4 @@
+11:13:39.421 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Avdeev A S', defect=ELECTRONICA, desc='сигнализация', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4493d195}
+11:13:39.436 INFO  - addCar objectCar{id=2, brandCar=BMW, fio='Avdeev A S', defect=ELECTRONICA, desc='сигнализация', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@687080dc}
+11:29:50.850 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Avdeev A S', defect=ELECTRONICA, desc='сигнализация', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6acdbdf5}
+11:29:50.866 INFO  - addCar objectCar{id=2, brandCar=BMW, fio='Avdeev A S', defect=ELECTRONICA, desc='сигнализация', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3d921e20}

@@ -1,0 +1,132 @@
+13:26:14.254 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2781e022}
+13:26:14.254 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@26a7b76d}
+13:26:14.332 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4cf4d528}
+13:26:14.332 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@548ad73b}
+13:26:14.347 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@704921a5}
+13:26:14.347 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@704921a5}
+13:26:14.347 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7a36aefa}
+13:26:14.363 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7a36aefa}
+13:26:14.363 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@10d59286}
+13:34:30.609 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+13:34:30.609 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+13:34:30.609 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@58c1670b}
+13:34:40.859 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+13:34:40.862 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+13:34:41.092 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2eda0940}
+13:34:41.097 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@706a04ae}
+13:34:41.118 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+13:34:41.119 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+13:34:41.165 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+13:34:41.168 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+13:34:41.169 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@16f7c8c1}
+13:37:49.244 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+13:37:49.244 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+13:37:49.400 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6ec8211c}
+13:37:49.400 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@544a2ea6}
+13:37:49.400 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+13:37:49.416 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+13:37:49.416 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+13:37:49.416 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+13:37:49.416 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@149494d8}
+14:19:30.864 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+14:19:30.895 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+14:19:31.091 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6ec8211c}
+14:19:31.092 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@544a2ea6}
+14:19:31.102 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+14:19:31.102 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+14:19:31.128 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+14:19:31.129 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+14:19:31.129 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@149494d8}
+14:53:22.085 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6acdbdf5}
+14:53:22.116 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@fad74ee}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1990a65e}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@25bbf683}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7276c8cd}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7276c8cd}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6eceb130}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6eceb130}
+14:53:22.210 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@5c072e3f}
+11:03:35.527 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+11:03:35.542 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+11:03:35.699 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2eda0940}
+11:03:35.699 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@706a04ae}
+11:03:35.714 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:03:35.714 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:03:35.761 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:03:35.761 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:03:35.761 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@16f7c8c1}
+11:04:11.166 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+11:04:11.166 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+11:04:11.306 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2eda0940}
+11:04:11.306 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@706a04ae}
+11:04:11.322 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:04:11.322 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:04:11.337 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:04:11.337 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:04:11.353 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@16f7c8c1}
+11:04:41.376 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:04:41.376 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:04:57.258 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:04:57.258 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2c039ac6}
+11:05:04.502 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:05:04.518 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:05:04.518 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@58c1670b}
+11:07:15.636 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+11:07:15.636 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+11:07:15.730 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2eda0940}
+11:07:15.730 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@706a04ae}
+11:07:15.746 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:07:15.746 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:07:15.746 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:07:15.746 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:07:15.746 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@16f7c8c1}
+11:07:32.390 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:07:32.390 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1b68ddbd}
+11:09:00.629 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2d8f65a4}
+11:09:00.629 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2d8f65a4}
+11:09:00.629 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@587d1d39}
+11:09:06.276 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@17579e0f}
+11:09:06.292 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@37d31475}
+11:09:06.386 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@eb21112}
+11:09:06.386 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3578436e}
+11:09:06.401 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@67b467e9}
+11:09:06.401 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@67b467e9}
+11:09:06.417 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2641e737}
+11:09:06.417 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2641e737}
+11:09:06.417 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@24a35978}
+11:10:40.072 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+11:10:40.072 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+11:10:40.165 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2eda0940}
+11:10:40.165 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@706a04ae}
+11:10:40.165 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:10:40.165 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:10:40.181 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:10:40.181 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+11:10:40.181 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@16f7c8c1}
+11:54:38.638 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4d41cee}
+11:54:38.638 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@27808f31}
+11:54:38.716 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6ec8211c}
+11:54:38.716 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@544a2ea6}
+11:54:38.716 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+11:54:38.732 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@150c158}
+11:54:38.732 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:54:38.732 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@47db50c5}
+11:54:38.732 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@149494d8}
+13:34:29.743 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1563da5}
+13:34:29.766 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@59906517}
+13:34:30.024 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4cf4d528}
+13:34:30.026 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@548ad73b}
+13:34:30.048 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2641e737}
+13:34:30.049 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2641e737}
+13:34:30.136 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4fcd19b3}
+13:34:30.136 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4fcd19b3}
+13:34:30.137 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7a36aefa}
+13:34:50.410 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2bbf4b8b}
+13:34:50.420 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@5bfbf16f}
+13:34:50.530 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@77846d2c}
+13:34:50.530 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4c762604}
+13:34:50.540 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+13:34:50.540 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@727803de}
+13:34:50.550 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@376b4233}
+13:34:50.560 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Ирина', defect=WHEEL, desc='сдуло колесо', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@376b4233}
+13:34:50.560 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@17211155}

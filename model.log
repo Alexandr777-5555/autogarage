@@ -1,0 +1,47 @@
+13:07:53.859 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@670a61da}
+13:07:53.861 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@670a61da}
+13:07:53.861 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3afa97db}
+13:08:31.643 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@670a61da}
+13:08:31.646 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@670a61da}
+13:08:31.647 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3afa97db}
+13:09:14.596 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@c95bc81}
+13:09:14.598 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@269385ab}
+13:30:40.198 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@12f03b97}
+13:30:40.201 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3de9dfbf}
+13:38:23.130 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@c95bc81}
+13:38:23.133 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@269385ab}
+13:44:27.009 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7d70f27a}
+13:44:27.011 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@64839505}
+10:31:53.259 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3530c2b9}
+10:31:53.293 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3530c2b9}
+10:31:53.293 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@25e1ddcd}
+10:37:55.266 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+10:37:55.268 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+10:37:55.270 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2f495055}
+10:43:00.319 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6c431716}
+10:43:00.321 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6c431716}
+10:43:00.322 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@bd0a5f4}
+10:49:06.161 DEBUG - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1310e74c}
+10:49:06.188 DEBUG - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1310e74c}
+10:49:06.188 DEBUG - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4ff684de}
+10:53:07.509 INFO  - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7d70f27a}
+10:53:07.520 INFO  - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7d70f27a}
+10:53:07.524 INFO  - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1475e244}
+10:55:34.453 INFO  - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@52fa497d}
+10:55:34.456 INFO  - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@52fa497d}
+10:55:34.457 INFO  - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2db26f40}
+11:06:27.611 INFO  - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@50bc944f}
+11:06:27.612 INFO  - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@50bc944f}
+11:06:27.613 INFO  - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@655f5c60}
+11:09:15.760 INFO  - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@46c463f9}
+11:09:15.761 INFO  - addCar objectCar{id=0, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@46c463f9}
+11:09:15.762 INFO  - addCar objectCar{id=0, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@76c6d525}
+11:12:16.825 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+11:12:16.839 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+11:12:16.844 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2f495055}
+11:12:44.235 INFO  - addCar objectCar{id=0, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+11:12:44.245 INFO  - addCar objectCar{id=1, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@1c1118a5}
+11:12:44.246 INFO  - addCar objectCar{id=2, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2f495055}
+11:13:20.849 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@52fa497d}
+11:13:20.851 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@52fa497d}
+11:13:20.852 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@2db26f40}

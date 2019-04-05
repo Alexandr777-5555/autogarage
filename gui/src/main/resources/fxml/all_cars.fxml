@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<VBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="556.0" prefWidth="769.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="garage.app.ui.controller.AllCarsController">
+   <children>
+      <AnchorPane prefHeight="149.0" prefWidth="769.0" />
+      <AnchorPane prefHeight="350.0" prefWidth="769.0">
+         <children>
+            <TableView fx:id="carTable" layoutX="15.0" layoutY="7.0" prefHeight="332.0" prefWidth="738.0">
+              <columns>
+                <TableColumn fx:id="carBrand" prefWidth="166.0" text="марка авто" />
+                  <TableColumn fx:id="carFio" prefWidth="136.0" text="ФИО" />
+                  <TableColumn fx:id="carDefect" prefWidth="118.0" text="Неисправность" />
+                  <TableColumn fx:id="carDesc" prefWidth="316.0" text="Описание" />
+              </columns>
+            </TableView>
+         </children>
+      </AnchorPane>
+   </children>
+</VBox>

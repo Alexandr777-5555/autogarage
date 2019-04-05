@@ -1,0 +1,12 @@
+12:04:52.818 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@32600e1}
+12:04:52.820 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@32600e1}
+12:04:52.820 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@4fc2d52a}
+12:05:14.843 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3b82b69c}
+12:05:14.846 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@3b82b69c}
+12:05:14.850 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@6d627fea}
+12:06:06.818 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@107a20c6}
+12:06:06.821 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@107a20c6}
+12:06:06.821 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@25a14b0f}
+12:08:22.161 INFO  - addCar objectCar{id=1, brandCar=BMW, fio='Александр', defect=CARBODY, desc='царапина', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7010f7d5}
+12:08:22.163 INFO  - addCar objectCar{id=2, brandCar=AUDI, fio='Наталья', defect=WHEEL, desc='прокол колеса', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@7010f7d5}
+12:08:22.164 INFO  - addCar objectCar{id=3, brandCar=RENO, fio='Иришка', defect=ELECTRONICA, desc='сенсоры', garage=ru.avdey.autogarage.app.model.entity.auto.Garage@54883479}
